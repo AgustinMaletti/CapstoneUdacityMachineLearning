@@ -1,5 +1,5 @@
-# CapstoneUdacityMachineLearning
-This is my final project for the nano degree program in Machine Learning from Udacity
+# Capstone Udacity Machine Learning
+
 
 This is my project capstone for Udacity nanodegree on Machine Learning.
 The background behind this project is the robot mouse competition on solving mazes. In the first phase explore and in the second exploit.
