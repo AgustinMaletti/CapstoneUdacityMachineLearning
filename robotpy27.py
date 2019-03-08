@@ -11,7 +11,7 @@ import csv
 ##4) python tester.py test_maze_01.py random_detector_visited
 ##5) python tester.py test_maze_01.py a_star_dinamic_a_star
 ## after model name you can pass exploration limit
-
+# Part of this code is based in the Course of Artificial Intelligence for robotics from Udacity, and from rtlatimer from Github
 
 # Dir of the heading
 dir_sensor = {'u':['l','u','r'],
