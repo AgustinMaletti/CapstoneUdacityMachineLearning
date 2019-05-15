@@ -1,4 +1,5 @@
-# Capstone Udacity Machine Learning- A Robot Mouse finding cheese in a Maze
+# Capstone Udacity Machine Learning
+# A Robot Mouse finding cheese in a Maze
 
 
 This is my project capstone for Udacity nanodegree on Machine Learning.
